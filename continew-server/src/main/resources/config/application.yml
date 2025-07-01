@@ -1,25 +1,21 @@
 --- ### 项目配置
 project:
   # 名称
-  name: ContiNew Admin
+  name: xbox Admin
   # 应用名称
-  app-name: continew-admin
+  app-name: xbox-admin
   # 版本
   version: 4.0.0-SNAPSHOT
   starter: 2.12.2
   # 描述
-  description: 持续迭代优化的前后端分离中后台管理系统框架，开箱即用，持续提供舒适的开发体验。
+  description:
   # 基本包
   base-package: top.continew.admin
   ## 作者信息配置
   contact:
-    name: Charles7c
-    email: charles7c@126.com
-    url: https://charles7c.top
-  ## 许可协议信息配置
-  license:
-    name: Apache-2.0
-    url: https://github.com/continew-org/continew-admin/blob/dev/LICENSE
+    name: hhhcc
+    email: huangc06@163.com
+    url:
 
 --- ### 服务器配置
 server:
