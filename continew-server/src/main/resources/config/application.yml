@@ -5,7 +5,7 @@ project:
   # 应用名称
   app-name: xbox-admin
   # 版本
-  version: 4.0.0-SNAPSHOT
+  version: 1.0.0-SNAPSHOT
   starter: 2.12.2
   # 描述
   description:
@@ -13,8 +13,8 @@ project:
   base-package: top.continew.admin
   ## 作者信息配置
   contact:
-    name: hhhcc
-    email: huangc06@163.com
+    name: ez4hcc
+    email: ez4hcc@gmail.com
     url:
 
 --- ### 服务器配置
