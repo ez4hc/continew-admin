@@ -58,12 +58,6 @@
             <artifactId>continew-starter-trace</artifactId>
         </dependency>
 
-        <!-- Liquibase（用于管理数据库版本，跟踪、管理和应用数据库变化） -->
-        <dependency>
-            <groupId>org.liquibase</groupId>
-            <artifactId>liquibase-core</artifactId>
-        </dependency>
-
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
